@@ -36,9 +36,8 @@ This project analyzes my streaming data from the year 2012, providing insight in
 Inspired by Spotify Wrapped — but with full control of the story, visuals, and insights behind my music journey.
 
 ## 🗂️ More Years
-I’ve been building a full timeline of my listening history. Stay tuned for:
-- `Wrapped2011`
-- `Wrapped2013` and beyond! I'm hoping to catch up and continue this project until Spotify retires.
+I’ve been building a full timeline of my listening history. Stay tuned for more!
+- <a href='https://github.com/marisajanel/Spotify-Wrapped-2013'>Wrapped2013</a>
 
 ---
 
